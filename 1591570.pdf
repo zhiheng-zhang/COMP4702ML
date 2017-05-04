@@ -1,0 +1,37 @@
+<fulfillmentToken fulfillmentType="loan" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:9cb786e8-586a-4950-8901-fff8d2ee6025</distributor>
+  <operatorURL>http://acs.ebookcentral.proquest.com/fulfillment</operatorURL>
+  <transaction>1591570_43764074</transaction>
+  <expiration>2017-05-13T06:13:46-07:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:00000000-0000-0000-0000-000001591570</resource>
+    <resourceItem>0</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Machine Learning</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Marsland, Stephen; </dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">CRC Press</dc:publisher>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1591570</dc:identifier>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/pdf</dc:format>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:00000000-0000-0000-0000-000001591570</resource>
+      <permissions>
+        <display>
+          <duration>1206000</duration>
+        </display>
+        <excerpt>
+          <duration>1206000</duration>
+          <count initial="68" max="68" incrementInterval="17735"/>
+        </excerpt>
+        <print>
+          <duration>1206000</duration>
+          <count initial="68" max="68" incrementInterval="17735"/>
+        </print>
+        <play>
+          <duration>1206000</duration>
+        </play>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>HFIcbzcqM03e1xE/b10A51x6UZA=</hmac>
+</fulfillmentToken>
